@@ -1,0 +1,11 @@
+NBA
+https://www.basketball-reference.com/leagues/NBA_2015_totals.html
+
+titanic
+https://gist.githubusercontent.com/michhar/2dfd2de0d4f8727f873422c5d959fff5/raw/fa71405126017e6a37bea592440b4bee94bf7b9e/titanic.csv
+
+bank 
+https://raw.githubusercontent.com/akhil12028/Bank-Marketing-data-set-analysis/master/bank-additional-full.csv
+
+Dataset
+https://raw.githubusercontent.com/PramodShenoy/911-Calls/master/911.csv
